@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebasAB (Sebastián Aliaga)
-- 👀 I’m interested in Web Development in general. But I'm liking a lot working in the backend, so maybe I'll take that path, I'm not quite sure yet.  
-- 🌱 I’m currently learning JS, next I'll be learning React, MongoDB, NodeJS and Express to have the MERN stack.
+- 👀 I’m interested in Web Development in general. I consider myself a Fullstack Dev.
+- 🌱 I am a full-stack junior developer proficient in JavaScript (ReactJS, NextJS, NodeJS) and TypeScript, with experience in Python and some C#. I possess AWS knowledge as a certified Cloud Practitioner, acquired through various relevant courses.
 - 💞️ I’m looking to collaborate on any web projects.
 - 📫 How to reach me? Send me an email: sebasaliaga2515@gmail.com
 
