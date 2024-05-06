@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SebasAB (Sebastián Aliaga)
-- 👀 I’m interested in Web Development in general. I consider myself a Fullstack Dev.
-- 🌱 I am a full-stack junior developer proficient in JavaScript (ReactJS, NextJS, NodeJS) and TypeScript, with experience in Python and some C#. I possess AWS knowledge as a certified Cloud Practitioner, acquired through various relevant courses.
+- 🌱 Experienced full-stack developer with expertise in Next.js, React.js, and Node.js. Certified in Sitecore XM Cloud
+with strong skills in AWS, Docker, and Kubernetes for efficient cloud-based solutions. Committed to delivering
+high-quality web experiences through innovation and collaboration.
 - 💞️ I’m looking to collaborate on any web projects.
 - 📫 How to reach me? Send me an email: sebasaliaga2515@gmail.com
 
